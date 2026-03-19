@@ -95,7 +95,7 @@ POST       /api/v1/partner/add-item      Add a new food listing (Partners only)
 
 
 🛡️ Future Enhancements
-Queue System: Implementation of a queuing mechanism (like Redis/Bull) to make the backend highly scalable for millions of users [04:55:29].
+Queue System: Implementation of a queuing mechanism (like Redis/Bull) to make the backend highly scalable for millions of users.
 
 Advanced Filtering: Filter food items by cuisine, rating, and delivery time.
 
